@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.2.4",
     "browser-sync": "^2.26.14",
     "html-validate": "^4.6.1"
   },
